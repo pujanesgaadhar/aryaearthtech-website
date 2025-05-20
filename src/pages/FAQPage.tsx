@@ -96,7 +96,7 @@ const FAQPage = () => {
                 <Mail className="mr-2" size={18} />
                 Email Us
               </a>
-              <a href="tel:+919727916390" className="btn-secondary">
+              <a href="tel:+919727120399" className="btn-secondary">
                 <Phone className="mr-2" size={18} />
                 Call Us
               </a>

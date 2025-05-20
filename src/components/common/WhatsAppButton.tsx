@@ -2,7 +2,7 @@ import { MessageCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const WhatsAppButton = () => {
-  const phoneNumber = '+919727916390';
+  const phoneNumber = '+919727120399';
 
   return (
     <motion.a
