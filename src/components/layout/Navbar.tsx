@@ -33,10 +33,10 @@ const Navbar: React.FC = () => {
   return (
     <>
       <header 
-        className={`fixed top-0 left-0 right-0 z-[1000] transition-all duration-300
+        className={`fixed left-0 right-0 z-[1000] transition-all duration-300
           ${isScrolled 
-            ? 'bg-white/90 backdrop-blur-md shadow-lg mt-0'
-            : 'bg-white/15 backdrop-blur-[10px] mt-2 sm:mt-5'
+            ? 'bg-white/90 backdrop-blur-md shadow-lg top-2 sm:top-4'
+            : 'bg-white/15 backdrop-blur-[10px] top-2 sm:top-5'
           }
           mx-2 sm:mx-5 rounded-[25px] sm:rounded-[50px] border border-white/20
           shadow-[0_4px_15px_rgba(0,0,0,0.1)]
