@@ -23,7 +23,7 @@ We assist companies in building their ESG Aadhar profile through detailed assess
       'Simplified regulatory compliance',
       'Competitive advantage in Indian market'
     ],
-    image: 'https://images.pexels.com/photos/7376/startup-photos.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    image: '/images/certifications/ESGAadhar.jpg',
     icon: '🆔'
   },
   {
@@ -40,7 +40,7 @@ We help you set meaningful ESG goals, implement effective measurement systems, a
       'Access to sustainable financing options',
       'Compliance with evolving regulations'
     ],
-    image: 'https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
+    image: '/images/certifications/ESG.png',
     icon: '🌱'
   },
   {
@@ -57,7 +57,7 @@ Our experts ensure your GHG inventory is comprehensive, accurate, and defensible
       'Enhanced credibility with investors and customers',
       'Support for carbon neutrality goals'
     ],
-    image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
+    image: '/images/certifications/GHG.png',
     icon: '🌡️'
   },
   {
@@ -74,7 +74,7 @@ Our detailed PCF assessments enable you to identify carbon hotspots in your prod
       'Enhanced supply chain transparency',
       'Compliance with emerging product carbon disclosure requirements'
     ],
-    image: 'https://images.unsplash.com/photo-1530533718754-001d2668365a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
+    image: '/images/certifications/PCF.png',
     icon: '📊'
   },
   {
