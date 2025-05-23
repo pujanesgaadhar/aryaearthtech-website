@@ -8,14 +8,14 @@ const featuredServices = [
     title: 'ESG Consulting',
     description: 'Comprehensive guidance to develop and implement effective ESG strategies aligned with your business goals.',
     icon: '🌱',
-    image: 'https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80'
+    image: '/images/certifications/ESG.png'
   },
   {
     id: 'ghg-reporting',
     title: 'GHG Emission Reporting',
     description: 'Accurate greenhouse gas emissions measurement, reporting, and verification to meet regulatory requirements.',
     icon: '🌡️',
-    image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80'
+    image: '/images/certifications/GHG.png'
   },
   {
     id: 'ecovadis',
